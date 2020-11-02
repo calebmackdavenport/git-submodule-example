@@ -1,3 +1,3 @@
 export default 'example';
 
-const exmapleString = `this is a string`;
+const exampleString = `this is a string`;
